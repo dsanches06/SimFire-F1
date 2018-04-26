@@ -9,7 +9,7 @@ public class Main
 {
    public static void main(String[] args) {
         // TODO code application logic here
-        Simulator simulator = new Simulator();
-        simulator.init();
+        Simulator simulador = new Simulator();
+        simulador.init();
     }
 }
